@@ -1,0 +1,3 @@
+package exgopkg
+
+func Ex() {}
